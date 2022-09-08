@@ -1,0 +1,3 @@
+/Users/julia/CLionProjects/abc_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/julia/CLionProjects/abc_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/julia/CLionProjects/abc_string/cmake-build-debug/CMakeFiles/abc_string.dir
